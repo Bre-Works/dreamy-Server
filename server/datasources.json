@@ -5,8 +5,8 @@
   },
   "dreamyDB": {
     "name": "dreamyDB",
-    "connector": "mongodb",
+    "connector": "loopback-connector-mongodb",
     "url":"mongodb://ryanavilar:ax191094@ds053160.mongolab.com:53160/heroku_app31598781",
-    "database": "dreamyDB"
+    "database": "heroku_app31598781"
   }
 }
