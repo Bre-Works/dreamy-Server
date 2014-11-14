@@ -1,0 +1,35 @@
+{
+  "name": "Pengguna",
+  "plural": "ParaPengguna",
+  "base": "PersistedModel",
+  "properties": {
+    "Username": {
+      "type": "string",
+      "required": true
+    },
+    "Password": {
+      "type": "string",
+      "required": true
+    },
+    "Email": {
+      "type": "string",
+      "required": true
+    },
+    "FirstName": {
+      "type": "string",
+      "required": true
+    },
+    "LastName": {
+      "type": "string",
+      "required": true
+    },
+    "LastAccess": {
+      "type":"string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
