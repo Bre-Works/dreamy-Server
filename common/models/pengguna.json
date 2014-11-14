@@ -24,7 +24,7 @@
       "required": true
     },
     "LastAccess": {
-      "type":"string",
+      "type": "date",
       "required": true
     }
   },

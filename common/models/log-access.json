@@ -1,0 +1,22 @@
+{
+  "name": "LogAccess",
+  "mongodb": {
+    "collection": "LogsCollection"
+  },
+  "plural": "Logs",
+  "base": "PersistedModel",
+  "properties": {
+    "userID": {
+      "type": "number",
+      "required": true
+    },
+    "accessDate": {
+      "type": "date",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

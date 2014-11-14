@@ -27,7 +27,11 @@
     "public": false
   },
   "Pengguna": {
-    "dataSource": "db",
+    "dataSource": "dreamyDB",
+    "public": true
+  },
+  "LogAccess": {
+    "dataSource": "dreamyDB",
     "public": true
   }
 }
