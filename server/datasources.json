@@ -6,8 +6,7 @@
   "dreamyDB": {
     "name": "dreamyDB",
     "connector": "mongodb",
-    "host": "localhost",
-    "port": 27017,
+    "url":"mongodb://ryanavilar:ax191094@ds053160.mongolab.com:53160/heroku_app31598781",
     "database": "dreamyDB"
   }
 }
